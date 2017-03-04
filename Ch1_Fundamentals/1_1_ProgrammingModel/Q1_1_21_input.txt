@@ -1,0 +1,6 @@
+xulv    80    45
+daigeinan    90    45
+zhanmingming    45    12
+ningzhiqing    100    10
+wujiefeng    500    787
+geyouming    44546    425421
